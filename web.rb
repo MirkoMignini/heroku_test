@@ -1,4 +1,4 @@
-require 'sinatra'
+require 'franksinatra'
 
 get '/' do
   "Hello, world"
